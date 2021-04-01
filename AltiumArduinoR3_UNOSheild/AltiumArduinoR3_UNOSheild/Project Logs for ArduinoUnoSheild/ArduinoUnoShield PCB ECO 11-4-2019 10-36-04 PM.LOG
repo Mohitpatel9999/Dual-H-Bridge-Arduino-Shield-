@@ -1,0 +1,102 @@
+Added Pin To Net: NetName=NetM1_1 Pin=M1-1
+Added Pin To Net: NetName=NetM1_2 Pin=M1-2
+Added Pin To Net: NetName=NetM2_1 Pin=M2-1
+Added Pin To Net: NetName=NetM2_2 Pin=M2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetM1_2 Pin=Q1-3
+Added Pin To Net: NetName=+12 Pin=Q1-4
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetM1_2 Pin=Q2-4
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=+12 Pin=Q3-3
+Added Pin To Net: NetName=NetM1_1 Pin=Q3-4
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetM1_1 Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q4-4
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetM2_2 Pin=Q7-3
+Added Pin To Net: NetName=+12 Pin=Q7-4
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=GND Pin=Q8-3
+Added Pin To Net: NetName=NetM2_2 Pin=Q8-4
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=+12 Pin=Q9-3
+Added Pin To Net: NetName=NetM2_1 Pin=Q9-4
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetM2_1 Pin=Q10-3
+Added Pin To Net: NetName=GND Pin=Q10-4
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=GND Pin=Q11-2
+Added Pin To Net: NetName=NetQ11_3 Pin=Q11-3
+Added Pin To Net: NetName=NetQ12_1 Pin=Q12-1
+Added Pin To Net: NetName=GND Pin=Q12-2
+Added Pin To Net: NetName=NetQ12_3 Pin=Q12-3
+Added Pin To Net: NetName=IO2 Pin=R1-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R1-2
+Added Pin To Net: NetName=NetQ5_3 Pin=R2-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Pin To Net: NetName=IO3 Pin=R3-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R4-1
+Added Pin To Net: NetName=NetQ6_3 Pin=R4-2
+Added Pin To Net: NetName=NetQ6_1 Pin=R5-1
+Added Pin To Net: NetName=IO4 Pin=R5-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R6-1
+Added Pin To Net: NetName=IO5 Pin=R6-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R7-1
+Added Pin To Net: NetName=+12 Pin=R7-2
+Added Pin To Net: NetName=+12 Pin=R8-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R8-2
+Added Pin To Net: NetName=IO7 Pin=R9-1
+Added Pin To Net: NetName=NetQ11_1 Pin=R9-2
+Added Pin To Net: NetName=NetQ11_3 Pin=R10-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R10-2
+Added Pin To Net: NetName=NetQ7_1 Pin=R11-1
+Added Pin To Net: NetName=+12 Pin=R11-2
+Added Pin To Net: NetName=IO6 Pin=R12-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R12-2
+Added Pin To Net: NetName=+12 Pin=R13-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R13-2
+Added Pin To Net: NetName=NetQ9_1 Pin=R14-1
+Added Pin To Net: NetName=NetQ12_3 Pin=R14-2
+Added Pin To Net: NetName=NetQ12_1 Pin=R15-1
+Added Pin To Net: NetName=IO8 Pin=R15-2
+Added Pin To Net: NetName=NetQ10_1 Pin=R16-1
+Added Pin To Net: NetName=IO9 Pin=R16-2
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component M1 68000-102HLF
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component M2 68000-102HLF
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q1 IRF9630STRLPBF?
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q2 IRF630NSTRLPBF?
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q3 IRF9630STRLPBF?
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q4 IRF630NSTRLPBF?
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q5 BC817-16LT1G
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q6 BC817-16LT1G
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q7 IRF9630STRLPBF?
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q8 IRF630NSTRLPBF?
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q9 IRF9630STRLPBF?
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q10 IRF630NSTRLPBF?
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q11 BC817-16LT1G
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component Q12 BC817-16LT1G
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R1 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R2 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R3 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R4 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R5 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R6 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R7 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R8 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R9 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R10 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R11 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R12 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R13 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R14 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R15 CRCW1206220KFKEA
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R16 CRCW1206220KFKEA
